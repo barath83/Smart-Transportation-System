@@ -36,3 +36,10 @@ The front-end application is to be accessed by the end user in this case the com
 <img src="https://github.com/barath83/Smart-Transportation-System/blob/master/images/kit.jpg" width="250" height="350" >
 <img src="https://github.com/barath83/Smart-Transportation-System/blob/master/images/ss-app.png" width="250" height="350">
 </p>
+
+## Co-Creators
+
+<p>Raahul Kalyaan J - <span><a href="https://github.com/Raahul46"/>Raahul46</span></a></p>
+<p>Janani VI - <span><a href="https://github.com/Janani216"/>Janani216</span></a></p>
+
+
