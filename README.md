@@ -24,3 +24,15 @@ Microcontorller code for functioning of NEO 6M GPS module with NODE MCU (ESP 826
 4.Upload the code in the board by choosing Node MCU 1.0 12-E ESP 8266 board from Boards Manager of Arduino IDE.
 
 5.Also download the necessary library files for ESP 8266.
+
+
+## Android Application
+
+The front-end application is to be accessed by the end user in this case the commuters of MTC buses who can track the location of their desired bus routes via this application and also check for the availability of seats in the same.The application is written from scratch in Java and it uses Google Maps API to plot the GPS co-ordinates of the live location which is fetched from the server end.
+
+
+## Screenshots
+<p float="left">
+<img src="https://github.com/barath83/Smart-Transportation-System/blob/master/images/kit.jpg" width="250" height="350" >
+<img src="https://github.com/barath83/Smart-Transportation-System/blob/master/images/ss-app.png" width="250" height="350">
+</p>
